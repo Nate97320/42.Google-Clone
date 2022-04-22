@@ -1,2 +1,2 @@
-# Searchify
+# Google Clone
 
